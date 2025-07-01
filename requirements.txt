@@ -1,0 +1,28 @@
+# Core dependencies
+flask>=2.3.0
+requests>=2.31.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Video processing
+ffmpeg-python>=0.2.0
+
+# JSON and data handling
+json5>=0.9.0
+
+# HTTP and API
+urllib3>=2.0.0
+
+# Image processing
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+
+# Optional: For advanced features
+# torch>=2.0.0
+# transformers>=4.30.0
+# accelerate>=0.20.0 
