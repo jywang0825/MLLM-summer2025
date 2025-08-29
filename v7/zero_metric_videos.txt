@@ -1,0 +1,50 @@
+Found 3 videos with all-zero metrics:
+================================================================================
+
+1. Video UID: a94b8e4a-8921-4dcb-a79b-2c079e299e3a
+----------------------------------------
+Original Summary: #Summary C exercised
+Generated Summary: The images depict various individuals practicing yoga or stretching outdoors in grassy areas with palm trees, often at dusk or during the evening, with some scenes showing additional items like mats, blankets, bags, and phones scattered around.
+
+Metrics:
+  BLEU-1: 0.0000
+  BLEU-2: 0.0000
+  BLEU-3: 0.0000
+  BLEU-4: 0.0000
+  METEOR: 0.0000
+  ROUGE-L F1: 0.0000
+  Semantic Similarity: 0.1095
+  CLAIRE Score: 1.0000
+================================================================================
+
+2. Video UID: c8d88b2c-d6ed-4ef3-a7a1-e3b3dac0550f
+----------------------------------------
+Original Summary: #Summary C played cards
+Generated Summary: The images depict various modern living rooms and offices with large windows overlooking autumn foliage, featuring white furniture, tech gadgets, and scattered items, all bathed in natural light.
+
+Metrics:
+  BLEU-1: 0.0000
+  BLEU-2: 0.0000
+  BLEU-3: 0.0000
+  BLEU-4: 0.0000
+  METEOR: 0.0000
+  ROUGE-L F1: 0.0000
+  Semantic Similarity: 0.1117
+  CLAIRE Score: 1.0000
+================================================================================
+
+3. Video UID: 584f625d-15b0-49e8-bfa6-718b9cf010e0
+----------------------------------------
+Original Summary: #Summary C knitted a clothe
+Generated Summary: The main activity depicted in these frame descriptions is washing dishes and cleaning in various settings, including kitchens and laundry areas.
+
+Metrics:
+  BLEU-1: 0.0000
+  BLEU-2: 0.0000
+  BLEU-3: 0.0000
+  BLEU-4: 0.0000
+  METEOR: 0.0000
+  ROUGE-L F1: 0.0000
+  Semantic Similarity: 0.2706
+  CLAIRE Score: 1.0000
+================================================================================
